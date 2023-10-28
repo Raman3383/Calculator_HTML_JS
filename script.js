@@ -47,7 +47,7 @@ function divide(){
         var a = parseInt(textInput1.value);
         var b = parseInt(textInput2.value);
         var division = a / b;
-        alert('Product of ' + a +' and ' + b + ' is '+ division);
+        alert('Division of ' + a +' and ' + b + ' is '+ division);
     }  
     textInput1.value='';
     textInput2.value='';
